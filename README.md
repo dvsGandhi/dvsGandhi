@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="250"/>
+</div>
 ###
 
 <p align="left">I'm Divyesh Gandhi from India.<br><br>- 🔭 Working as an Backend Developer.<br>- ⚡ In my free time I play games and read-write articles.</p>
